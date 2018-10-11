@@ -7,13 +7,13 @@
 </p>
 
 <h3>Yue's notes:</h3>
-<p>
-The latest home page which migrated from previous version.
-Deployment environment is suitable for PHP7.2 above.
-Package Manager follows Composer standards.
-Application root resides under "frontend" folder.
-LAMP deployment entry only utilizes the "frontend" for experiment purpose only.
-</p>
+<ul>
+<li>The latest home page which migrated from previous version.</li>
+<li>Deployment environment is suitable for PHP7.2 above.</li>
+<li>Package Manager follows Composer standards.</li>
+<li>Application root resides under "frontend" folder.</li>
+<li>LAMP deployment entry only utilizes the "frontend" for experiment purpose only.</li>
+</ul>
 
 
 
